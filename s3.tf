@@ -3,7 +3,7 @@ variable "owner" {
 }
 
 variable "ttl" {
-  default = "48h"
+  default = "12h"
 }
 
 variable "bucket_name" {
