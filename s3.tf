@@ -1,5 +1,5 @@
 variable "owner" {
-  default = "demouser"
+  default = "kawsar"
 }
 
 variable "ttl" {
