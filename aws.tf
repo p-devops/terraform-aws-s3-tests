@@ -1,9 +1,3 @@
-variable "aws_access_key" {
-}
-
-variable "aws_secret_key" {
-}
-
 variable "aws_session_name" {
   description = "Optional session name to supply when performing AssumeRole call"
   default     = "terraform-assume-role"
