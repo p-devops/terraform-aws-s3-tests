@@ -1,4 +1,5 @@
 # terraform-aws-s3-tests
+# Test
 Terraform code to create AWS S3 bucket with various configuration. This branch uses AWS Assume role authentication for the [Terraform AWS Provider](https://www.terraform.io/docs/providers/aws/#assume-role)
 
 Note: Using the assume_role option in the AWS provider does require bootstrapping with other AWS credentials or using the Instance profile. 
