@@ -28,7 +28,7 @@ resource "aws_s3_bucket" "s3-test" {
     Environment = var.env
     Owner       = var.owner
     TTL         = var.ttl
-    Test        = "Cert"
+    Test        = "Cert2"
   }
 }
 
